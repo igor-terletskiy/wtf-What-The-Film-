@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Volumes/Fils/&#x41f;&#x440;&#x43e;&#x435;&#x43a;&#x442;&#x44b;/SwiftWork/MapKitFraimwork/ScrollViewandZoomView/fistPagePosterDetect/FirstPagePosterApp/WTFApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
