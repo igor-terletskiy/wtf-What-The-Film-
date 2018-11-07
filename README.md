@@ -1,22 +1,21 @@
-<H1>WTF? (What The Film?)
-</h1>
+<H1>WTF? (What The Film?)</H1>
 
-
-<H2><pre>
+<h3>
 This is an application for searching for movies, it has the ability to search for movies by name, by genre, you can also click on the date in the calendar and if some films are released on that day, they will be reflected at the bottom of the screen.
+</h3>
 
-It is also possible to search for movies on posters.
+<h3>It is also possible to search for movies on posters.<h3>
 
-You get detailed information about the film:
+<h3>You get detailed information about the film:<h3>
 
--Title
--Trailer
--Short description
--Release date
--Age limit
--Duration
-</pre></H2>
-<H1>Video Demonstration Project
+<h4>-Title</h4>
+<h4>-Trailer</h4>
+<h4>-Short description</h4>
+<h4>-Release date</h4>
+<h4>-Age limit</h4>
+<h4>-Duration</h4>
+
+<H1>Gif Demonstration Project
 </H1>
 
 <img width="240" height="480" border="1" src="https://firebasestorage.googleapis.com/v0/b/videostreaming-f70b0.appspot.com/o/fn.gif?alt=media&token=3328efc7-add0-4142-a63e-5c424ee13def"></img>
@@ -36,7 +35,8 @@ You get detailed information about the film:
 	# platform :ios, '9.0'
 
 	target 'FirstPagePosterApp' do
-  	# Comment the next line if you're not using Swift and don't 			want to use dynamic frameworks
+  	# Comment the next line if you're not using Swift and don't 			
+      want to use dynamic frameworks
   
 	use_frameworks!
 
@@ -54,7 +54,7 @@ You get detailed information about the film:
 </h3>
 <h3><a href = "https://firebase.google.com/docs/ios/setup?authuser=0">Firebase </a> -  Used to create a database.
 </h3>
-<h3><a href = "https://developer.apple.com/documentation/arkit/recognizing_images_in_an_ar_experience">ARKit </a> -  Detect known 2D images in the user’s environment.
+<h3><a href = "https://developer.apple.com/documentation/arkit/recognizing_images_in_an_ar_experience">ARKit </a> -  Detect known 2D images in the userÅfs environment.
 </h3>
 <H1>Authors</H1>
 <H2>Igor Terletskiy</H2> 
